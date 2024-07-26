@@ -55,6 +55,7 @@
 
 ## 第二章：事件驱动架构
 
+<img width="517" alt="image" src="https://github.com/user-attachments/assets/b687b624-546b-41d9-9542-ec4fd9f3696e">
 
 
 
@@ -121,6 +122,8 @@
 
 ## 第三章：微内核架构
 
+<img width="531" alt="image" src="https://github.com/user-attachments/assets/e663b0ac-0f93-4075-8460-8bb96b345302">
+
 
 
 ### 模式描述
@@ -181,6 +184,9 @@
 ## 第四章：微服务架构模式
 
 
+<img width="521" alt="image" src="https://github.com/user-attachments/assets/ee53a0f2-f551-4055-b891-318b9d5c0a5f">
+
+
 ### 模式描述
 
 微服务架构模式迅速在业界获得认可，作为单体应用和面向服务架构（SOA）的可行替代方案。由于这种架构模式仍在发展，业界对其定义和实现存在许多混淆。本章将为您提供理解这一重要架构模式的关键概念和基础知识，帮助您了解其优势（和权衡），并判断其是否适合您的应用程序。
@@ -234,6 +240,7 @@
 
 ## 第五章：基于空间的架构
 
+![Uploading image.png…]()
 
 
 ### 模式描述
