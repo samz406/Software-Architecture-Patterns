@@ -240,7 +240,8 @@
 
 ## 第五章：基于空间的架构
 
-![Uploading image.png…]()
+<img width="517" alt="image" src="https://github.com/user-attachments/assets/55f22665-139b-4aa2-b1b9-2e7b0a0a3135">
+
 
 
 ### 模式描述
